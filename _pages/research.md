@@ -1,5 +1,6 @@
 ---
-title: Home
+permalink: /research/
+title: "Research"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,8 +9,9 @@ header:
   caption: "Photo credit:"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro:
-  - excerpt: 'This is Home.'
+  - excerpt: 'Here is the research page.'
 ---
 
 {% include feature_row id="intro" type="center" %}
+
 

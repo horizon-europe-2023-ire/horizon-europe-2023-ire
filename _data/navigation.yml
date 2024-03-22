@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Consortium"
+    url: /consortium/
+  - title: "Publications"
+    url: /publications/
+  - title: "Events"
+    url: /events/
+  - title: "Research"
+    url: /research/
