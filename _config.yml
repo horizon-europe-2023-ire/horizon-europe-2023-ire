@@ -18,8 +18,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -288,11 +288,20 @@ collections:
   posts:
     output: true
     permalink: /:categories/:year/:month/:day/:title/
+  collaborators:
+    output: true
+    permalink: /collaborators/:name/
+  publications:
+    output: true
+    permalink: /publications/:name/
+  events:
+    output: true
+    permalink: /events/:year/:month/:day/:title/
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
+  - # _posts
+    scope:
       path: ""
       type: posts
     values:
@@ -302,15 +311,27 @@ defaults:
       comments: false
       share: true
       related: true
-  # _pages
-  - scope:
+  - # _pages
+    scope:
       path: ""
       type: pages
     values:
       layout: single
-  # foo
-  - scope:
+  - # publications
+    scope:
       path: ""
-      type: foo
+      type: publications
+    values:
+      layout: single
+  - # collaborators
+    scope:
+      path: ""
+      type: collaborators
+    values:
+      layout: single
+  - # events
+    scope:
+      path: ""
+      type: events
     values:
       layout: single

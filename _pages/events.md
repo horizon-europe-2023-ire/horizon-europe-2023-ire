@@ -1,24 +1,27 @@
 ---
 permalink: /events/
 title: "Events"
-layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/main_image.png
   caption: "Photo credit:"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro:
-  - excerpt: 'Here are the events.'
 ---
-
-{% include feature_row id="intro" type="center" %}
-
-<ul>
-  {% for post in site.posts limit:1 %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
+<div>
+  <h2>2024</h2>
+</div>
+{% assign entries = site.events | where:"year",2024 %}
+{% assign sorted_entries = entries | sort: 'date' %}
+{% for event in entries %}
+  {% assign year = event.date | date: "%Y" %}
+  <h3>{{ event.title }} - {{ event.description }}</h3>
+  <div>
+      <p style="font-size: 16px;">
+        <img src="../assets/images/time.png" alt="Time Icon" style="width: 16px; height: 16px; vertical-align: middle;">
+        {{ event.date | date: "%A %B %d" }} at {{ event.date | date: "%-R" }} CET (UTC+1)  
+        <span style="margin-right: 5px;"></span>
+        <img src="../assets/images/location.png" alt="Location Icon" style="width: 16px; height: 16px; vertical-align: middle;">
+        {{ event.location }}
+      </p>
+  </div>
+{% endfor %}
