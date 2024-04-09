@@ -30,9 +30,9 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : ""
 description              : "This is the official webpage for the Horizon Europe 2023 IRE Research."
 url                      : "https://horizon-europe-2023-ire.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/horizon-europe-2023-ire"# the subpath of your site, e.g. "/blog"
 repository               : "horizon-europe-2023-ire/horizon-europe-2023-ire"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/main_image.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # /assets/images/main_image.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/logo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)

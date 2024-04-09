@@ -11,7 +11,7 @@ header:
 {% for publication in site.publications %}
   <div>
     <h2>
-      <a href="{{ publication.url }}">{{ publication.title }}</a>
+      <a href="/horizon-europe-2023-ire{{ publication.url }}">{{ publication.title }}</a>
     </h2>
     <p style="font-size: 14px;">Written by: {{ publication.authors }}</p>
   </div>
