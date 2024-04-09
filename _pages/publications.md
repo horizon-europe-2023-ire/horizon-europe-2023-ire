@@ -1,5 +1,5 @@
 ---
-permalink: /:basename/publications/
+permalink: /publications/
 title: "Publications"
 header:
   overlay_color: "#000"
