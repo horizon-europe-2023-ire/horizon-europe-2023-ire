@@ -293,7 +293,7 @@ collections:
     permalink: /collaborators/:name/
   publications:
     output: true
-    permalink: /publications/:name/
+    permalink: /:basename/:collection/:name/
   events:
     output: true
     permalink: /events/:year/:month/:day/:title/
