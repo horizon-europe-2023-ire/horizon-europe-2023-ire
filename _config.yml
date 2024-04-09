@@ -335,3 +335,8 @@ defaults:
       type: events
     values:
       layout: single
+  - # assets/images
+    scope:
+      path: "assets/images"
+    values:
+      images: true
