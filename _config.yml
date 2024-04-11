@@ -191,6 +191,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /templates
 keep_files:
   - .git
   - .svn
@@ -296,7 +297,7 @@ collections:
     permalink: /:collection/:name/
   events:
     output: true
-    permalink: /events/:year/:month/:day/:title/
+    permalink: /:collection/:year/:month/:day/:title/
 
 # Defaults
 defaults:

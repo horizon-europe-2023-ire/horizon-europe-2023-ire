@@ -14,7 +14,9 @@ header:
 {% assign sorted_entries = entries | sort: 'date' %}
 {% for event in entries %}
   {% assign year = event.date | date: "%Y" %}
-  <h3>{{ event.title }} - {{ event.description }}</h3>
+  <h3>
+    <a href="/horizon-europe-2023-ire{{ event.url }}">{{ event.title }}</a>
+  </h3>
   <div>
       <p style="font-size: 16px;">
         <img src="../assets/images/time.png" alt="Time Icon" style="width: 16px; height: 16px; vertical-align: middle;">

@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "News"
+    url: /news/
   - title: "Consortium"
     url: /consortium/
   - title: "Publications"
@@ -9,3 +11,5 @@ main:
     url: /events/
   - title: "Research"
     url: /research/
+  - title: "About"
+    url: /about/
