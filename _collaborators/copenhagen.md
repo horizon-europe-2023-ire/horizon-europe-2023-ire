@@ -1,6 +1,6 @@
 ---
 layout: collaborators
-institution: "Københavns Universitet - UCPH"
+institution: "Københavns Universitet - jdjd -UCPH"
 country: "Denmark"
 role: "Coordinator"
 link: "ku.dk"
