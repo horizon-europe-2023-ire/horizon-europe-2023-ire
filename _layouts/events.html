@@ -42,13 +42,13 @@ permalink: /:baseurl/events/:year/:month/:day/:title/
         {% endif %}
         <div>
           <p style="font-size: 20px;">
-          <img src="/assets/images/time.png" alt="Time Icon" style="width: 16px; height: 16px; vertical-align: middle;">
+          <img src="{{ "assets/images/time.png" | relative_url }}" alt="Time Icon" style="width: 16px; height: 16px; vertical-align: middle;">
           {{ page.date | date: "%A %B %d" }} at {{ page.date | date: "%-R" }} CET (UTC+1)
           </p>
         </div>
         <div>
           <p style="font-size: 20px;">
-          <img src="/assets/images/location.png" alt="Location Icon" style="width: 16px; height: 16px; vertical-align: middle;">{{ page.location }}
+          <img src="{{ "assets/images/location.png" | relative_url }}" alt="Location Icon" style="width: 16px; height: 16px; vertical-align: middle;">{{ page.location }}
           </p>
         </div>
 
