@@ -6,26 +6,55 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/main_image.png
   caption: "Photo credit:"
-feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+first_row:
+  - image_path: /assets/images/about.png
+    alt: "placeholder about"
+    title: "About"
+    excerpt: "What is this project about."
+    url: "/about"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/news.png
+    alt: "placeholder image 2"
+    title: "News"
+    excerpt: "What is the newest news."
+    url: "/news"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/consortium.png
+    title: "Consortium"
+    excerpt: "Who are we and our partners."
+    url: "/consortium"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+second_row:
+  - image_path: /assets/images/publications.png
+    alt: "placeholder image 1"
+    title: "Publications"
+    excerpt: "All about our publications"
+    url: "/publications"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/events.png
+    alt: "placeholder image 2"
+    title: "Events"
+    excerpt: "What is happening when"
+    url: "/events"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/research.jpg
+    title: "Research"
+    excerpt: "What are we working on"
+    url: "/research"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 intro:
   - excerpt: 'Some Introduction to the IRE project.'
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="first_row"%}
+
+{% include feature_row id="second_row"%}
 
