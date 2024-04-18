@@ -10,15 +10,12 @@ year: 2023 # change this. This is an additional parameter to ease the filtering
 
 # Welcome
 
-Here you can write your post content in markdown. See the following tutorials to get to know markdown and jekyll posts:
+Here you can write your event content in markdown. See the following tutorials to get to know markdown and jekyll posts:
 - https://www.markdownguide.org/basic-syntax/
 - https://jekyllrb.com/docs/posts/
 
-You can also check out those post examples:
-layout
-- https://mmistakes.github.io/minimal-mistakes/year-archive/
-- https://mmistakes.github.io/minimal-mistakes/layout-header-image-text-readability/
 
-code: 
-- https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts
-
+[comment]: <> (1. create your file in the _events folder with .md extension and the right name including the date!)
+[comment]: <> (copy the above markdown, all between the ---, into your file)
+[comment]: <> (add the image to the assets/images/ folder)
+[comment]: <> (Write the content below the --- where now # Welcome is written)
