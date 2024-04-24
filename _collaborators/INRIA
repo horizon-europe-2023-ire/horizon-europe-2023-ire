@@ -1,0 +1,9 @@
+---
+layout: collaborators
+institution: "Institut National de Recherche en Informatique et Automatique"
+country: "France"
+role: "BEN"
+link: "https://inria.fr/en"
+img_path: "../assets/images/inr_logo_rouge.jpg"
+description: "This is the description."
+---
