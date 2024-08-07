@@ -5,5 +5,5 @@ country: "France"
 role: "Beneficiary"
 link: "https://www.insimo.com"
 img_path: "../assets/images/InSimo logo 200 px.png"
-description: "This is the description."
+description: ""
 ---
