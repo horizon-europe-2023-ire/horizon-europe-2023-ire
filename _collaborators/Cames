@@ -5,5 +5,5 @@ country: "Denmark"
 role: "Beneficiary"
 link: "https://www.regionh.dk/CAMES/Sider/default.aspx"
 img_path: "../assets/images/RegionH 200 px.png"
-description: "This is the description."
+description: ""
 ---
