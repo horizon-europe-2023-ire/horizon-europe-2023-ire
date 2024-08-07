@@ -23,7 +23,7 @@ IRE boosts the design and configuration of the robotic endoscope using digital t
     <p>University of Copenhagen</p>
     <p>Address: DIKU Universitetsparken 1, 2100 København Øe</p>
     <img src="{{ "assets/images/boss.jpg" | relative_url }}" alt="Boss">
-    <p>Project Coordinator: Bert</p>
-    <p>Email: <a href="mailto:email@example.com">email@example.com</a></p>
+    <p>Project Coordinator: Kenny Erleben </p>
+    <p>Email: <a href="mailto:kenny@di.ku.dk">email@example.com</a></p>
 </div>
 
