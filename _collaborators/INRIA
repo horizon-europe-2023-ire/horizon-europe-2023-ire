@@ -5,5 +5,5 @@ country: "France"
 role: "Beneficiary"
 link: "https://inria.fr/en"
 img_path: "../assets/images/inr_logo 200px.jpg"
-description: "This is the description."
+description: ""
 ---
