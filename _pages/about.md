@@ -24,6 +24,6 @@ IRE boosts the design and configuration of the robotic endoscope using digital t
     <p>Address: DIKU Universitetsparken 1, 2100 København Ø</p>
     <img src="{{ "assets/images/Kenny Erleben.jpg" | relative_url }}" alt="Kenny Erleben">
     <p>Project Coordinator: Kenny Erleben </p>
-    <p>Email: <a href="mailto:kenny@di.ku.dk">email@example.com</a></p>
+    <p>Email: <a href="mailto:kenny@di.ku.dk">kenny@di.ku.dk</a></p>
 </div>
 
