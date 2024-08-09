@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/Research_shutterstock.jpg
 excerpt: "Learn more about research aims and objectives in Intelligent Robotic Endoscopes (IRE) for Improved Healthcare Services"
 intro:
-  - excerpt: 'Here is the research page.'
+  - excerpt: ''
 ---
 Interventional endoscopy maximizes the benefits of minimally invasive clinical procedures, as it allows clinicians to
 reach the internal human anatomy while leveraging minimal incisions using the body’s natural pathways. This translates
