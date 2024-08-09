@@ -51,5 +51,11 @@ assistance (through intelligent navigation, human-robot interaction, and augment
 proposed results will be possible by advancing the state of the art on many areas of cognitive robotics and digital
 supply chain technology.
 
+**Work Packages**
+
+The IRE project is structured along six scientific work packages (WP1-6), one exploitation/dissemination work package
+(WP7), and one management work package (WP8). The scientific work packages cover the following research themes: anatomical modelling, simulation models, test/train phantoms,
+soft robot endoscopes, AI-based navigation, and clinical verification.
+
 {% include feature_row id="intro" type="center" %}
 
