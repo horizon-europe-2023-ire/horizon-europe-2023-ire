@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Research_shutterstock.jpg
+  overlay_image: /assets/images/CAMES research.jpg
 excerpt: "Learn more about research aims and objectives in Intelligent Robotic Endoscopes (IRE) for Improved Healthcare Services"
 intro:
   - excerpt: ''
