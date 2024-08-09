@@ -23,6 +23,8 @@ The only way to find out if a patient has bowel cancer at an early stage is by m
 "If we succeed in extending the current endoscope technology with robotics control, the healthcare system will be able to detect bowel cancer faster and more people will be cured", says Professor Kenny Erleben.
 
 **A more pleasant experience**
+
+
 Another challenge of the bowel cancer screening process is that human errors can occur, which can affect the patient's experience of the screening.  
 
 "Because of the huge variation in human anatomy, using endoscopes is a complicated navigational task, even for experienced clinicians. Our robotic endoscope will ensure that patients experience less pain, which will increase the level and quality of the examination", says Professor Kenny Erleben.
