@@ -39,6 +39,8 @@ robotic endoscopy manifests as a key approach to safety and effectiveness under 
 endoscopic procedures.
 
 **Objectives**
+
+
 The IRE project aims to empower endoscopy technology by inventing next-step autonomy robotic functionalities
 that create a step change in undertaking non-repetitive colonoscopy cancer screening procedures in realistic laboratory
 settings. This includes critical safe human-robot interactions when operating in the complex and dynamic working
