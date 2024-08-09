@@ -10,6 +10,8 @@ image: "assets/images/Tarmkr_ft-1100x600-2.jpg
 ---
 
 **Research project will develop intelligent robot that can screen for bowel cancer**
+
+
 Across the EU, national screening programmes are being rolled out to ensure that bowel cancer is detected early. However, with the healthcare system under pressure, especially in the area of cancer, the screenings can't always be offered at the optimal time.  
 
 This problem is the starting point for the new research project "Intelligent Robotic Endoscopes for Improved Healthcare Services”, coordinated by the Department of Computer Science at the University of Copenhagen. The project's nine participating institutions will work together to develop an intelligent robot that can navigate inside the human body.   
