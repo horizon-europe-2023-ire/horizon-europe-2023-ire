@@ -16,7 +16,7 @@ header:
         <img src="{{ post.image | relative_url}}" alt="{{ post.title }}" style="height: 80%; object-fit: cover;">
       </div>
       <div class="post-content" style="flex: 1 1 auto; margin-top: 0; margin-bottom: 0; padding: 50px;">
-        <p class="post-title" style="font-size: 1em; margin-bottom: 10px; font-weight: bold;"><a href="/horizon-europe-2023-ire{{ post.url }}">{{ post.title }}</a></p>
+        <p class="post-title" style="font-size: 1em; margin-bottom: 10px; font-weight: bold;"><a href="{{ post.url }}">{{ post.title }}</a></p>
         <p class="excerpt" style="font-size: 0.8em; margin-top: 5px;">{{ post.excerpt }}</p>
       </div>
     </li>
