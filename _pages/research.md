@@ -10,6 +10,7 @@ excerpt: "Learn more about research aims and objectives in Intelligent Robotic E
 intro:
   - excerpt: ''
 ---
+
 Interventional endoscopy maximizes the benefits of minimally invasive clinical procedures, as it allows clinicians to
 reach the internal human anatomy while leveraging minimal incisions using the body’s natural pathways. This translates
 into minimum impact on patients, avoiding complex open-surgery interventions, reducing risk, and minimizing
