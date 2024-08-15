@@ -14,7 +14,7 @@ header:
 {% for event in entries %}
   {% assign year = event.date | date: "%Y" %}
   <h3>
-    <a href="/horizon-europe-2023-ire{{ event.url }}">{{ event.title }}</a>
+    <a href="{{ event.url }}">{{ event.title }}</a>
   </h3>
   <div>
       <p style="font-size: 16px;">
