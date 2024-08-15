@@ -6,6 +6,7 @@ header:
   overlay_image: /assets/images/Publications_shutterstock.jpg # change to post picture path
   og_image: /assets/images/Publications_shutterstock.jpg # same path as above
   overlay_filter: "0.5" # don't change
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 image: "assets/images/Publications_shutterstock.jpg" # change to same path as above
 ---
 # Welcome
