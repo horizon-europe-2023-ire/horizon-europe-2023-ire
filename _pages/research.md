@@ -1,7 +1,6 @@
 ---
 permalink: /research/
 title: "Research"
-layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -9,7 +8,16 @@ header:
 excerpt: "Learn more about research aims and objectives in Intelligent Robotic Endoscopes (IRE) for Improved Healthcare Services"
 intro:
   - excerpt: ''
+toc: true
+toc_label: "About"
 ---
+
+# Header 1
+## Header 1.1
+### Header 1.1.1
+## Header 1.2
+
+# Introduction
 
 Interventional endoscopy maximizes the benefits of minimally invasive clinical procedures, as it allows clinicians to
 reach the internal human anatomy while leveraging minimal incisions using the body’s natural pathways. This translates
@@ -39,7 +47,7 @@ Altogether, given the ageing European population and the massive European effort
 robotic endoscopy manifests as a key approach to safety and effectiveness under the expected increase in
 endoscopic procedures.
 
-**Objectives**
+## Objectives
 
 The IRE project aims to empower endoscopy technology by inventing next-step autonomy robotic functionalities
 that create a step change in undertaking non-repetitive colonoscopy cancer screening procedures in realistic laboratory
@@ -52,7 +60,7 @@ assistance (through intelligent navigation, human-robot interaction, and augment
 proposed results will be possible by advancing the state of the art on many areas of cognitive robotics and digital
 supply chain technology.
 
-**Work Packages**
+## Work Packages
 
 The IRE project is structured along six scientific work packages (WP1-6), one exploitation/dissemination work package
 (WP7), and one management work package (WP8). The scientific work packages cover the following research themes: anatomical modelling, simulation models, test/train phantoms,
