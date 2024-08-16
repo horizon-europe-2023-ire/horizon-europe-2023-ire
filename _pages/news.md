@@ -11,7 +11,7 @@ header:
 <ul class="post-list" style="list-style: none; padding: 0;">
   {% for post in site.posts limit:5 %}
     <li class="post-item" style="display: flex; margin-bottom: 40px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
-      <div class="post-thumbnail" style="flex: 0 0 auto; margin-right: 20px; width: 200px; display: flex; justify-content: center; align-items: center; margin-left: 20px;">
+      <div class="post-thumbnail" style="flex: 0 0 auto; margin-right: 20px; width: 250px; display: flex; justify-content: center; align-items: center; margin-left: 20px;">
         <img src="{{ post.image | relative_url}}" alt="{{ post.title }}" style="height: 80%; object-fit: cover;">
       </div>
       <div class="post-content" style="flex: 1 1 auto; margin-top: 0; margin-bottom: 0; padding: 50px;">

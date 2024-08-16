@@ -3,6 +3,7 @@ title: Home
 header:
   overlay_image: assets/images/Cover photo.jpg
   caption: "Photo Credit: DIKU"
+layout: splash
 first_row:
   - image_path: assets/images/Publications.jpg
     title: "Collaborators"
@@ -27,28 +28,30 @@ intro:
   - excerpt: 'In Intelligent Robotic Endoscopes (IRE) for Improved Healthcare Services, we envision creating intelligent robotic solutions to perform colonoscopies, ensuring faster and less painful screenings for patients suffering from bowel cancer.'
 ---
 
-{% assign intro_excerpt = page.intro[0].excerpt %}
-<h3 class="intro-excerpt" style="font-size: 1em; margin-top: 60px; margin-bottom: 60px; padding-top: 10px; padding-bottom: 10px; font-weight: normal;">{{ intro_excerpt }}</h3>
-<hr style="margin-bottom: 40px;">
+<div style="max-width: 75%; margin: 0 auto;">
+  {% assign intro_excerpt = page.intro[0].excerpt %}
+  <h3 class="intro-excerpt" style="font-size: 1em; margin-top: 60px; margin-bottom: 60px; padding-top: 10px; padding-bottom: 10px; font-weight: normal; text-align: center;">{{ intro_excerpt }}</h3>
+  <hr style="margin-bottom: 40px;">
 
-{% include feature_row id="first_row" %}
+  {% include feature_row id="first_row" %}
 
-Our project will leverage a new generation of intelligent robots capable of interacting with the human body using data, simulation, and learning while maintaining communication with a human operator. By enhancing current endoscope technology with robotic control, the healthcare system can achieve faster detection of bowel cancer. Given the significant anatomical variations among patients, endoscopy is a complex navigational challenge even for experienced clinicians. Our robotic endoscope will minimize patient discomfort, thereby improving both the frequency and quality of examinations.
+  <p>Our project will leverage a new generation of intelligent robots capable of interacting with the human body using data, simulation, and learning while maintaining communication with a human operator. By enhancing current endoscope technology with robotic control, the healthcare system can achieve faster detection of bowel cancer. Given the significant anatomical variations among patients, endoscopy is a complex navigational challenge even for experienced clinicians. Our robotic endoscope will minimize patient discomfort, thereby improving both the frequency and quality of examinations.</p>
 
-<h3 style="margin-top: 80px; margin-bottom: 30px; font-weight: normal; font-size: 1em;">Read more about the latest activities:</h3>
+  <h3 style="margin-top: 80px; margin-bottom: 30px; font-weight: normal; font-size: 1em; text-align: center;">Read more about the latest activities:</h3>
 
-<ul class="post-list" style="list-style: none; padding: 0;">
-  {% for post in site.posts limit:5 %}
-    <li class="post-item" style="display: flex; margin-bottom: 40px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
-      <div class="post-thumbnail" style="flex: 0 0 auto; margin-right: 20px; width: 200px; display: flex; justify-content: center; align-items: center; margin-left: 20px;">
-        <a href="{{ post.url }}" style="display: flex; height: 80%; width: 100%; justify-content: center; align-items: center;">
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="height: 100%; width: auto; object-fit: cover;">
-        </a>
-      </div>
-      <div class="post-content" style="flex: 1 1 auto; margin-top: 0; margin-bottom: 0; padding: 50px;">
-        <p class="post-title" style="font-size: 1em; margin-bottom: 10px; font-weight: bold;"><a href="{{ post.url }}">{{ post.title }}</a></p>
-        <p class="excerpt" style="font-size: 0.8em; margin-top: 5px;">{{ post.excerpt }}</p>
-      </div>
-    </li>
-  {% endfor %}
-</ul>
+  <ul class="post-list" style="list-style: none; padding: 0;">
+    {% for post in site.posts limit:5 %}
+      <li class="post-item" style="display: flex; margin-bottom: 40px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
+        <div class="post-thumbnail" style="flex: 0 0 auto; margin-right: 20px; width: 200px; display: flex; justify-content: center; align-items: center; margin-left: 20px;">
+          <a href="{{ post.url }}" style="display: flex; height: 80%; width: 100%; justify-content: center; align-items: center;">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="height: 100%; width: auto; object-fit: cover;">
+          </a>
+        </div>
+        <div class="post-content" style="flex: 1 1 auto; margin-top: 0; margin-bottom: 0; padding: 50px;">
+          <p class="post-title" style="font-size: 1em; margin-bottom: 10px; font-weight: bold;"><a href="{{ post.url }}">{{ post.title }}</a></p>
+          <p class="excerpt" style="font-size: 0.8em; margin-top: 5px;">{{ post.excerpt }}</p>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
