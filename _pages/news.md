@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Publications_shutterstock.jpg
-
+  caption: "Photo Credit: DIKU"
 ---
 <div style="max-width: 75%; margin: 0 auto;">
     <ul class="post-list" style="list-style: none; padding: 0;">
