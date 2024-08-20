@@ -5,7 +5,7 @@ last_modified_at: 2024-02-13T10:45:06-05:00
 header:
   overlay_image: /assets/images/Bowel cancer 1100x733px.jpg
   og_image: /assets/images/Bowel cancer 1100x733px.jpg"
-  caption: "Photo credit: [**Shutterstock**]"
+  caption: "Photo credit: Shutterstock"
   overlay_filter: "0.5"
 image: "assets/images/Bowel cancer 1100x733px.jpg"
 ---
