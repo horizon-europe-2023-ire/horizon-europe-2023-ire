@@ -3,11 +3,11 @@ title: "Research project will develop intelligent robot that can screen for bowe
 excerpt: "Detecting bowel cancer at an early stage is crucial. A new and innovative research project will study whether robots can be used to perform colonoscopies to ensure faster and less painful screening of patients. The research project is funded by the EU."
 last_modified_at: 2024-02-13T10:45:06-05:00
 header:
-  overlay_image: /assets/images/Tarmkr_ft-1100x600-2.jpg
-  og_image: /assets/images/Tarmkr_ft-1100x600-2.jpg"
-  caption: "Photo credit: [**DIKU**]"
+  overlay_image: /assets/images/Bowel cancer 1100x733px.jpg
+  og_image: /assets/images/Bowel cancer 1100x733px.jpg"
+  caption: "Photo credit: [**Shutterstock**]"
   overlay_filter: "0.5"
-image: "assets/images/Tarmkr_ft-1100x600-2.jpg"
+image: "assets/images/Bowel cancer 1100x733px.jpg"
 ---
 
 **Research project will develop intelligent robot that can screen for bowel cancer**
