@@ -5,7 +5,7 @@ last_modified_at: 2024-02-13T10:45:06-05:00
 header:
   overlay_image: /assets/images/Tarmkr_ft-1100x600-2.jpg
   og_image: /assets/images/Tarmkr_ft-1100x600-2.jpg"
-  caption: "Photo credit: [**IRE**]"
+  caption: "Photo credit: [**DIKU**]"
   overlay_filter: "0.5"
 image: "assets/images/Tarmkr_ft-1100x600-2.jpg"
 ---
