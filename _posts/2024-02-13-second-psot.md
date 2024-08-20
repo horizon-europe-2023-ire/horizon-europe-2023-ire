@@ -37,11 +37,3 @@ Initially, the robot will be tested on a digital copy of a human, a so-called di
 "Once the robot has been thoroughly tested and we trust it, we can start testing the robot on humans. Testing digitally and on a phantom first will allow us to avoid animal testing. In addition, the phantom will also help train doctors better. It is a soft robot, which is something completely new in this area. The phantom will be able to change shape and behaviour while you use it", says Professor Kenny Erleben.   
 
 The project will start on 1 March 2024 and will run for a four-year period. 
-
-
-
-<figure style="width: 180px" class="align-center">
-  <a href="{{ "assets/images/logo.jpg" | relative_url }}" title="The Pixel Tracker logo" alt="The Pixel Tracker logo">
-  <img src="{{ "assets/images/logo.jpg" | relative_url }}" alt=""></a>
-  <figcaption>This is Ira our mascot!</figcaption>
-</figure>
