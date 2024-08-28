@@ -28,6 +28,8 @@ For IRE to consider Hop-On it is very important to us that:
 - A new partner adds novelty or value to the fundamental methodologies in IRE.
 
 **How to Apply as a Hop-On Partner**
+
+
 We need approximately a half-page pitch about how you as a new partner will add new value to IRE to assess if it is meaningful for IRE to move forward with a Hop-On proposal. A positive match for IRE heavily depends on the methodological approaches and the fundamental approach to research taken by a new potential Hop-On partner.
 
 Once, we receive a research pitch from a new potential partner then we will discuss this internally in the IRE consortium and if we assess it to have sufficient positive added value to IRE then we will notify you about whether we wish to move on with looking into the Hop-On facility.
