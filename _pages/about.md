@@ -34,7 +34,7 @@ We need approximately a half-page pitch about how you as a new partner will add 
 
 Once, we receive a research pitch from a new potential partner then we will discuss this internally in the IRE consortium and if we assess it to have sufficient positive added value to IRE then we will notify you about whether we wish to move on with looking into the Hop-On facility.
 
-Please send your project pitch to <a href="mailto:IRE@ku.dk">IRE@ku.dk</a></p>
+Please send your project pitch to <a href="mailto:IRE@ku.dk">IRE@ku.dk</a>
 
 Observe, the pitch must be written in Times New Roman, 12pt Font, on A4, Margin 1.5cm, maximum of 20 lines of text. No pictures, no links, and send by email as a PDF file.
 
