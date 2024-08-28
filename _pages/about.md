@@ -19,6 +19,26 @@ IRE enables a new generation of intelligent robots that through data, simulation
 
 IRE boosts the design and configuration of the robotic endoscope using digital twins and simulation, and careful inclusion of clinicians will speed up the process of integration. IRE will raise the level of autonomy by building upon simulation, imaging, and learning to yield an increased interpretation and understanding of the complex real- world environments, capable of anticipating the effect of human motions, adapting and replanning to avoid entanglement.
 
+## Join the project
+
+We are always very happy to extend our network connections and possibilities for finding partners for future proposals.
+ 
+For IRE to consider Hop-On it is very important to us that:
+ 
+- A new partner is complementary to the existing consortium.
+- A new partner brings added novelty to the research outcomes of IRE.
+- A new partner adds novelty or value to the fundamental methodologies in IRE.
+ 
+We need approximately a half-page pitch about how you as a new partner will add new value to IRE to assess if it is meaningful for IRE to move forward with a Hop-On proposal.
+ 
+A positive match for IRE heavily depends on the methodological approaches and the fundamental approach to research taken by a new potential Hop-On partner.
+ 
+Once, we receive a research pitch from a new potential partner then we will discuss this internally in the IRE consortium and if we assess it to have sufficient positive added value to IRE then we will notify you about whether we wish to move on with looking into the Hop-On facility.
+ 
+Please send your project pitch to xxx@yyy.zzz
+ 
+Observe, the pitch must be written in Times New Roman, 12pt Font, on A4, Margin 1.5cm, maximum of 20 lines of text. No pictures, no links, and send by email as a PDF file.
+
 ## Contact
 
 <div>
