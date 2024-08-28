@@ -41,8 +41,6 @@ Observe, the pitch must be written in Times New Roman, 12pt Font, on A4, Margin 
 <div>
     <p>University of Copenhagen</p>
     <p>Address: DIKU Universitetsparken 1, 2100 København Ø</p>
-    <img src="{{ "assets/images/Kenny Erleben.jpg" | relative_url }}" alt="Kenny Erleben">
-    <p>Project Coordinator: Kenny Erleben </p>
     <p>Email: <a href="mailto:kenny@di.ku.dk">kenny@di.ku.dk</a></p>
 </div>
 
