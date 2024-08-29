@@ -102,7 +102,7 @@ The IRE project is structured along six scientific work packages, one exploitati
 
 **WP3: Create software for virtual training and real-life phantom simulators.** Work package lead: INRIA
 
-**WP4: Creating Robotic Endoscopes.** Work package lead: UTWENTE
+**WP4: Creating Robotic Endoscopes.** Work package lead: Universiteit Twente
 
 **WP5: Learning Intelligent Navigation.** Work package lead: University of Copenhagen
 
