@@ -116,5 +116,6 @@ The IRE project is structured along six scientific work packages, one exploitati
 **WP7: Dissemination, Exploitation, Communication**
 
 **WP8: Management**
+
 {% include feature_row id="intro" type="center" %}
 
