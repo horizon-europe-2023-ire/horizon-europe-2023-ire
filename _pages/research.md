@@ -74,7 +74,8 @@ assistance (through intelligent navigation, human-robot interaction, and augment
 proposed results will be possible by advancing the state of the art on many areas of cognitive robotics and digital
 supply chain technology.
 
-The IRE project will work on five specific objectives, which can be summarised as: 
+The IRE project will work on five specific objectives, which can be summarised as:
+
 **1) Soft robotic endoscopes**
 Create the first AI-powered soft robotic endoscopes, with an increased level of autonomy through fine manipulation
 control and sensory augmentation for operator feedback, optimised through model-based design.
