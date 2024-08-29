@@ -11,11 +11,6 @@ toc: true
 toc_label: "About"
 ---
 
-# Header 1
-## Header 1.1
-### Header 1.1.1
-## Header 1.2
-
 # Introduction
 
 Interventional endoscopy maximizes the benefits of minimally invasive clinical procedures, as it allows clinicians to
