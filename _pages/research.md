@@ -32,7 +32,6 @@ tasks to be carried out by the clinician, without much technological support. In
 challenges in endoscope navigation can lead to severe injuries such as colon perforation due to excessive forces, or
 misdiagnosis such as undetected cancerous tissue due to looping of the endoscope.
 
-
 Endoscopy poses a tremendous opportunity for autonomous robotics and human-robot interaction in complex changing
 environments. The combined endoscope-body system highlights many classical challenges in robotics, including
 mechanism design, system identification, mechanical simulation, and manipulation control. Furthermore, it opens
@@ -40,13 +39,27 @@ challenges for modern areas of robotics related to digital emerging technologies
 sensor technology. This includes soft robot design, model-based sensing, learning-based navigation, sensory augmentation,
 human-robot cooperation, or robot-based training. 
 
-The irruption of intelligent robotic endoscopy can drastically
-advance the possibilities for in-vivo endoscope navigation, endoscope design, and clinical operator training.
+The irruption of intelligent robotic endoscopy can drastically advance the possibilities for in-vivo endoscope navigation, endoscope design, and clinical operator training.
 Altogether, given the ageing European population and the massive European effort on beating cancer (BECA), intelligent
 robotic endoscopy manifests as a key approach to safety and effectiveness under the expected increase in
 endoscopic procedures.
 
-## Objectives
+## Intelligent robotic endoscopy
+The Intelligent Robotic Endoscopes (IRE) for improved healthcare services project will address multiple scientific
+and technical challenges across intelligent robotic endoscopy. Due to the underactuated and under-sensed nature of
+endoscopes, the project will leverage a digital value chain based on simulation models and learning-based techniques
+to reconstruct missing information and guide intelligent algorithms. The development of simulation models of soft
+endoscopes and soft anatomy will be rooted on modern methods of statistical modelling for anatomy/geometry, and
+model-order reduction and differentiable simulation for mechanics. Furthermore, learning-based techniques will
+drive the design of control policies, navigation methods, and navigation feedback based on sensory augmentation.
+The proposed simulation models and learning-based control methods will be applied to solve problems of endoscope
+design, intelligent navigation assistance, virtual-reality-based training, and soft robot phantom-based testing/training.
+Novel methods will be tested on phantoms, as a validation step toward clinical deployment. Intelligent endoscopes
+are not meant to replace the human operator but will empower the operator with enriched information to make informed
+decisions. The project results will be demonstrated on colonoscopy, as a particularly impactful case of endoscopy.
+
+
+# Objectives and ambition
 
 The IRE project aims to empower endoscopy technology by inventing next-step autonomy robotic functionalities
 that create a step change in undertaking non-repetitive colonoscopy cancer screening procedures in realistic laboratory
@@ -59,7 +72,14 @@ assistance (through intelligent navigation, human-robot interaction, and augment
 proposed results will be possible by advancing the state of the art on many areas of cognitive robotics and digital
 supply chain technology.
 
-## Work Packages
+The IRE project will work on five specific objectives, which can be summarised as: 
+  1) Soft robotic endoscopes
+  2) Robotic test and train phantoms
+  3) AI-enabled digital endoscope twins
+  4) AI-powered navigation
+  5) OPEN/FAIR models and data.
+
+# Work Packages
 
 The IRE project is structured along six scientific work packages (WP1-6), one exploitation/dissemination work package
 (WP7), and one management work package (WP8). The scientific work packages cover the following research themes: anatomical modelling, simulation models, test/train phantoms,
