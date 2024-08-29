@@ -40,8 +40,8 @@ Observe, the pitch must be written in Times New Roman, 12pt Font, on A4, Margin 
 ## Contact
 
 <div>
-    <p>University of Copenhagen</p>
-    <p>Address: DIKU Universitetsparken 1, 2100 København Ø</p>
+    <p>University of Copenhagen, Department of Computer Science</p>
+    <p>Address: Universitetsparken 1, 2100 København Ø, Denmark</p>
     <p>Email: <a href="mailto:IRE@ku.dk">IRE@ku.dk</a></p>
 </div>
 
