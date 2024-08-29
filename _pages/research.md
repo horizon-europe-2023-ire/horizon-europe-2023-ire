@@ -45,6 +45,7 @@ robotic endoscopy manifests as a key approach to safety and effectiveness under 
 endoscopic procedures.
 
 ## Intelligent robotic endoscopy
+
 The Intelligent Robotic Endoscopes (IRE) for improved healthcare services project will address multiple scientific
 and technical challenges across intelligent robotic endoscopy. Due to the underactuated and under-sensed nature of
 endoscopes, the project will leverage a digital value chain based on simulation models and learning-based techniques
@@ -54,6 +55,7 @@ model-order reduction and differentiable simulation for mechanics. Furthermore, 
 drive the design of control policies, navigation methods, and navigation feedback based on sensory augmentation.
 The proposed simulation models and learning-based control methods will be applied to solve problems of endoscope
 design, intelligent navigation assistance, virtual-reality-based training, and soft robot phantom-based testing/training.
+
 Novel methods will be tested on phantoms, as a validation step toward clinical deployment. Intelligent endoscopes
 are not meant to replace the human operator but will empower the operator with enriched information to make informed
 decisions. The project results will be demonstrated on colonoscopy, as a particularly impactful case of endoscopy.
