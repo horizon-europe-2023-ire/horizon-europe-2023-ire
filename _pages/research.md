@@ -96,21 +96,29 @@ applied to colonoscopy.
 The IRE project is structured along six scientific work packages, one exploitation/dissemination work package, and one management work package. The scientific work packages cover the following research themes: anatomical modelling, simulation models, test/train phantoms, soft robot endoscopes, AI-based navigation, and clinical verification.
 
 ### List of work packages 
-WP1: Biomechanical Population Modelling
+**WP1: Biomechanical Population Modelling**
+Work package lead: University of Copenhagen
 
-WP2: Creating Digital Endoscope Twins
+**WP2: Creating Digital Endoscope Twins**
+Work package lead: Universidad Rey Juan Carlos
 
-WP3: Create software for virtual training and real-life phantom simulators
+**WP3: Create software for virtual training and real-life phantom simulators**
+Work package lead: INRIA - Institut National de Recherche en sciences et technologies du numérique
 
-WP4: Creating Robotic Endoscopes
+**WP4: Creating Robotic Endoscopes**
+Work package lead: UTWENTE
 
-WP5: Learning Intelligent Navigation
+**WP5: Learning Intelligent Navigation**
+Work package lead: University of Copenhagen
 
-WP6: Process Integration and Clinical Verification
+**WP6: Process Integration and Clinical Verification**
+Work package lead: CAMES
 
-WP7: Dissemination, Exploitation, Communication
+**WP7: Dissemination, Exploitation, Communication**
+Work package lead: University of Copenhagen
 
-WP8: Management
+**WP8: Management**
+Work package lead: University of Copenhagen
 
 {% include feature_row id="intro" type="center" %}
 
