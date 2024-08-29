@@ -97,27 +97,35 @@ The IRE project is structured along six scientific work packages, one exploitati
 
 ### List of work packages 
 **WP1: Biomechanical Population Modelling**
+
 Work package lead: University of Copenhagen
 
 **WP2: Creating Digital Endoscope Twins**
+
 Work package lead: Universidad Rey Juan Carlos
 
 **WP3: Create software for virtual training and real-life phantom simulators**
+
 Work package lead: INRIA - Institut National de Recherche en sciences et technologies du numérique
 
 **WP4: Creating Robotic Endoscopes**
+
 Work package lead: UTWENTE
 
 **WP5: Learning Intelligent Navigation**
+
 Work package lead: University of Copenhagen
 
 **WP6: Process Integration and Clinical Verification**
+
 Work package lead: CAMES
 
 **WP7: Dissemination, Exploitation, Communication**
+
 Work package lead: University of Copenhagen
 
 **WP8: Management**
+
 Work package lead: University of Copenhagen
 
 {% include feature_row id="intro" type="center" %}
