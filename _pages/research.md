@@ -98,7 +98,6 @@ applied to colonoscopy.
 
 # Work Packages
 
-
 The IRE project is structured along six scientific work packages, one exploitation/dissemination work package, and one management work package. The scientific work packages cover the following research themes: anatomical modelling, simulation models, test/train phantoms, soft robot endoscopes, AI-based navigation, and clinical verification.
 
 ### List of work packages 
