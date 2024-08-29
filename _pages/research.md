@@ -73,19 +73,23 @@ proposed results will be possible by advancing the state of the art on many area
 supply chain technology.
 
 The IRE project will work on five specific objectives, which can be summarised as: 
- ### 1) Soft robotic endoscopes
+### 1) Soft robotic endoscopes
 Create the first AI-powered soft robotic endoscopes, with an increased level of autonomy through fine manipulation
 control and sensory augmentation for operator feedback, optimised through model-based design.
- ### 2) Robotic test and train phantoms
+
+### 2) Robotic test and train phantoms
 Build a soft robot phantom of human anatomy for continuous development and clinical validation of intelligent
 robotic endoscopes, measuring functional performance against clinical data.
- ### 3) AI-enabled digital endoscope twins
+
+### 3) AI-enabled digital endoscope twins
 Provide fast and highly accurate digital twins of the robotic endoscope and the complex dynamic environment
 of the soft tissue, suitable for data-driven learning and optimisation.
- ### 4) AI-powered navigation
+
+### 4) AI-powered navigation
 Develop learning-based methods to design navigation policies for operator assistance in complex endoscopy
 tasks and increase the level of autonomy to improve human-robot collaboration.
- ### 5) OPEN/FAIR models and data.
+
+### 5) OPEN/FAIR models and data.
 Develop OPEN and FAIR models and datasets that will facilitate further research on intelligent robotic endoscopes,
 applied to colonoscopy.
 
