@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/news items.jpg
+  overlay_image: /assets/images/Publications_shutterstock.jpg
   caption: "Photo Credit: Shutterstock"
 ---
 <div style="max-width: 75%; margin: 0 auto;">
