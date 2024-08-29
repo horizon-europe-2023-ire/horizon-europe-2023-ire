@@ -102,12 +102,19 @@ The IRE project is structured along six scientific work packages, one exploitati
 
 ### List of work packages 
 **WP1: Biomechanical Population Modelling**
+
 **WP2: Creating Digital Endoscope Twins**
+
 **WP3: Create software for virtual training and real-life phantom simulators**
+
 **WP4: Creating Robotic Endoscopes**
+
 **WP5: Learning Intelligent Navigation**
+
 **WP6: Process Integration and Clinical Verification**
+
 **WP7: Dissemination, Exploitation, Communication**
+
 **WP8: Management**
 {% include feature_row id="intro" type="center" %}
 
