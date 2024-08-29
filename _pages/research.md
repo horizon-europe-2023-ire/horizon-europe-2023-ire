@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Research.jpg
   caption: "Photo Credit: DIKU"
-excerpt: "Learn more about research aims and objectives in Intelligent Robotic Endoscopes (IRE) for Improved Healthcare Services"
+excerpt: "Learn more about research aims and objectives in Intelligent Robotic Endoscopes for Improved Healthcare Services"
 toc: true
 toc_label: "About"
 ---
