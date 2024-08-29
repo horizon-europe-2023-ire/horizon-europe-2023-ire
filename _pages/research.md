@@ -97,7 +97,6 @@ The IRE project is structured along six scientific work packages, one exploitati
 
 ### List of work packages 
 **WP1: Biomechanical Population Modelling**
-
 Work package lead: University of Copenhagen
 
 **WP2: Creating Digital Endoscope Twins**
