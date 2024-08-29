@@ -59,7 +59,7 @@ are not meant to replace the human operator but will empower the operator with e
 decisions. The project results will be demonstrated on colonoscopy, as a particularly impactful case of endoscopy.
 
 
-# Objectives and ambition
+# Objectives
 
 The IRE project aims to empower endoscopy technology by inventing next-step autonomy robotic functionalities
 that create a step change in undertaking non-repetitive colonoscopy cancer screening procedures in realistic laboratory
