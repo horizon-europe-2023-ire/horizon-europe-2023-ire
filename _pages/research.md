@@ -100,7 +100,7 @@ The IRE project is structured along six scientific work packages, one exploitati
 
 **WP2: Creating Digital Endoscope Twins.** Work package lead: Universidad Rey Juan Carlos
 
-**WP3: Create software for virtual training and real-life phantom simulators.** Work package lead: INRIA - Institut National de Recherche en sciences et technologies du numérique
+**WP3: Create software for virtual training and real-life phantom simulators.** Work package lead: INRIA
 
 **WP4: Creating Robotic Endoscopes.** Work package lead: UTWENTE
 
