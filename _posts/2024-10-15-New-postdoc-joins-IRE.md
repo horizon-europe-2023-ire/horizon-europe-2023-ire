@@ -3,7 +3,7 @@ title: "New Postdoc Joins IRE"
 excerpt: "Martina Finocchiaro has recently started her position as a postdoctoral researcher at the Department of Computer Science, University of Copenhagen, as part of the IRE project."
 last_modified_at: 2024-10-15T10:45:06-05:00
 header:
-  overlay_image: /assets/images/Bowel cancer 1100x733px.jpg
+  overlay_image: /assets/images/Martina.jpg
   og_image: /assets/images/Martina.jpg"
   caption: ""
   overlay_filter: "0.5"
