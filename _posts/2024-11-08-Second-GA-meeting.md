@@ -18,3 +18,4 @@ As with the first Grant Assembly Meeting, the consortium gathered in Copenhagen 
 
 ![Demo session at GA 2 Meeting](/assets/images/Demo1.jpg)
 ![Demo session at GA 2 Meeting](/assets/images/Demo2.jpg)
+![Demo session at GA 2 Meeting](/assets/images/Demo 3.jpg)
