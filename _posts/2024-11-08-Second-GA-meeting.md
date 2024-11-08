@@ -15,3 +15,6 @@ On 23 October, the IRE research project consortium gathered for its second Grant
 Momen Abayazid delivered a fascinating keynote on “Soft Robotics and Origami-Based Structures for Endoscopic Applications,” sharing interesting perspectives with the group. Participants also had the opportunity to engage with various demonstrations, trying out the technologies we are working on firsthand. The team is currently working on developing the first soft robots, and there is great excitement about the potential future applications of these advancements.
 
 As with the first Grant Assembly Meeting, the consortium gathered in Copenhagen and the day ended with a dinner. 
+
+![Demo session at GA 2 Meeting](Demo1.jpg)
+![Demo session at GA 2 Meeting](Demo2.jpg)
