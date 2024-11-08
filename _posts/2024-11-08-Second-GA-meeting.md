@@ -7,7 +7,7 @@ header:
   og_image: /assets/images/GA2.jpg
   overlay_filter: "0.5"
   caption: "Photo credit: [Ronja Stern]"
-image: "assets/images/GTA.jpg"
+image: "assets/images/GA2.jpg"
 ---
 
 A few weeks ago, the IRE research project consortium gathered for its second Grant Assembly Meeting. The day was dedicated to sharing knowledge and discussing the early scientific results that have already emerged from the project.
