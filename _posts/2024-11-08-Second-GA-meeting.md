@@ -16,5 +16,5 @@ Momen Abayazid delivered a fascinating keynote on “Soft Robotics and Origami-B
 
 As with the first Grant Assembly Meeting, the consortium gathered in Copenhagen and the day ended with a dinner. 
 
-![Demo session at GA 2 Meeting](Demo1.jpg)
-![Demo session at GA 2 Meeting](Demo2.jpg)
+![Demo session at GA 2 Meeting](assets/images/Demo1.jpg)
+![Demo session at GA 2 Meeting](assets/images/Demo2.jpg)
