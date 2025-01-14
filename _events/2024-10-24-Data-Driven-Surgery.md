@@ -4,24 +4,19 @@ title: "A new perspective on surgical safety with focus on data-driven surgery, 
 possibilities and international collaboration"
 date: 2024-10-24 12:00 - 2024-10-25 15:00
 location: "Rigshospitalet, Blegdamsvej 9, Copenhagen 2100, Denmark"
-description: "The first and founding conference on data-driven surgical safety in Copenhagen, Denmark"
+description: "Welcome to the innovative conference format of tomorrow, where audience engagement takes center stage! As
+attendees you’re greeted with interactive sessions featuring word clouds generated from your thoughts on key topics.
+Throughout the event, polls will pop up on screens, inviting real-time input from participants, shaping discussions, and
+guiding the direction of sessions. This dynamic blend of technology and audience interaction fosters a collaborative
+environment, where ideas flow freely, and every voice is heard."
 year: 2024
 ---
-
-### Details
 
 #### Learning objectives
 The focus of the conference is to exchange knowledge regarding cutting-edge data-driven surgical approaches, with a
 specific emphasis on nurturing research and development efforts. These initiatives aim to utilize intraoperative data to
 enhance educational outcomes, elevate patient safety standards, and comprehensively optimize the utilization of
 healthcare resources.
-
-#### Format
-Welcome to the innovative conference format of tomorrow, where audience engagement takes center stage! As
-attendees you’re greeted with interactive sessions featuring word clouds generated from your thoughts on key topics.
-Throughout the event, polls will pop up on screens, inviting real-time input from participants, shaping discussions, and
-guiding the direction of sessions. This dynamic blend of technology and audience interaction fosters a collaborative
-environment, where ideas flow freely, and every voice is heard.
 
 #### Dates & venue
 October 24th and 25th 2024, Rigshospitalet, Blegdamsvej 9, Copenhagen 2100, Denmark
