@@ -12,7 +12,7 @@ header:
 </div>
 {% assign entries = site.events | where:"year",2025 %}
 {% assign sorted_entries = entries | sort: 'date' | reverse %}
-{% for event in entries %}
+{% for event in sorted_entries %}
   {% assign year = event.date | date: "%Y" %}
   <h3>
     <a href="{{ event.url }}">{{ event.title }}</a>
@@ -33,7 +33,7 @@ header:
 </div>
 {% assign entries = site.events | where:"year",2024 %}
 {% assign sorted_entries = entries | sort: 'date' | reverse %}
-{% for event in entries %}
+{% for event in sorted_entries %}
   {% assign year = event.date | date: "%Y" %}
   <h3>
     <a href="{{ event.url }}">{{ event.title }}</a>
