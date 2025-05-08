@@ -4,7 +4,7 @@ title: About
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Research_shutterstock.jpg
+  overlay_image: /assets/images/CAMES research.jpg
   caption: "Photo Credit: DIKU"
 toc: true
 toc_label: "About"
@@ -19,13 +19,29 @@ IRE enables a new generation of intelligent robots that through data, simulation
 
 IRE boosts the design and configuration of the robotic endoscope using digital twins and simulation, and careful inclusion of clinicians will speed up the process of integration. IRE will raise the level of autonomy by building upon simulation, imaging, and learning to yield an increased interpretation and understanding of the complex real- world environments, capable of anticipating the effect of human motions, adapting and replanning to avoid entanglement.
 
+## Join the project
+We are always very happy to extend our network connections and possibilities for finding partners for future proposals. If you believe you can contribute meaningfully to our project, you are welcome to submit a Hop-On proposal.
+
+For IRE to consider Hop-On it is very important to us that:
+- A new partner is complementary to the existing consortium.
+- A new partner brings added novelty to the research outcomes of IRE.
+- A new partner adds novelty or value to the fundamental methodologies in IRE.
+
+**How to Apply as a Hop-On Partner**
+
+We need approximately a half-page pitch about how you as a new partner will add new value to IRE to assess if it is meaningful for IRE to move forward with a Hop-On proposal. A positive match for IRE heavily depends on the methodological approaches and the fundamental approach to research taken by a new potential Hop-On partner.
+
+Once, we receive a research pitch from a new potential partner then we will discuss this internally in the IRE consortium and if we assess it to have sufficient positive added value to IRE then we will notify you about whether we wish to move on with looking into the Hop-On facility.
+
+Please send your project pitch to <a href="mailto:IRE@ku.dk">IRE@ku.dk</a>
+
+Observe, the pitch must be written in Times New Roman, 12pt Font, on A4, Margin 1.5cm, maximum of 20 lines of text. No pictures, no links, and send by email as a PDF file.
+
 ## Contact
 
 <div>
-    <p>University of Copenhagen</p>
-    <p>Address: DIKU Universitetsparken 1, 2100 København Ø</p>
-    <img src="{{ "assets/images/Kenny Erleben.jpg" | relative_url }}" alt="Kenny Erleben">
-    <p>Project Coordinator: Kenny Erleben </p>
-    <p>Email: <a href="mailto:kenny@di.ku.dk">kenny@di.ku.dk</a></p>
+    <p>University of Copenhagen, Department of Computer Science</p>
+    <p>Address: Universitetsparken 1, 2100 København Ø, Denmark</p>
+    <p>Email: <a href="mailto:IRE@ku.dk">IRE@ku.dk</a></p>
 </div>
 

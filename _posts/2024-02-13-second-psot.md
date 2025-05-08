@@ -3,11 +3,11 @@ title: "Research project will develop intelligent robot that can screen for bowe
 excerpt: "Detecting bowel cancer at an early stage is crucial. A new and innovative research project will study whether robots can be used to perform colonoscopies to ensure faster and less painful screening of patients. The research project is funded by the EU."
 last_modified_at: 2024-02-13T10:45:06-05:00
 header:
-  overlay_image: /assets/images/Tarmkr_ft-1100x600-2.jpg
-  og_image: /assets/images/Tarmkr_ft-1100x600-2.jpg"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /assets/images/Bowel cancer 1100x733px.jpg
+  og_image: /assets/images/Bowel cancer 1100x733px.jpg"
+  caption: "Photo credit: Shutterstock"
   overlay_filter: "0.5"
-image: "assets/images/Tarmkr_ft-1100x600-2.jpg"
+image: "assets/images/Bowel cancer 1100x733px.jpg"
 ---
 
 **Research project will develop intelligent robot that can screen for bowel cancer**
@@ -37,11 +37,3 @@ Initially, the robot will be tested on a digital copy of a human, a so-called di
 "Once the robot has been thoroughly tested and we trust it, we can start testing the robot on humans. Testing digitally and on a phantom first will allow us to avoid animal testing. In addition, the phantom will also help train doctors better. It is a soft robot, which is something completely new in this area. The phantom will be able to change shape and behaviour while you use it", says Professor Kenny Erleben.   
 
 The project will start on 1 March 2024 and will run for a four-year period. 
-
-
-
-<figure style="width: 180px" class="align-center">
-  <a href="{{ "assets/images/logo.jpg" | relative_url }}" title="The Pixel Tracker logo" alt="The Pixel Tracker logo">
-  <img src="{{ "assets/images/logo.jpg" | relative_url }}" alt=""></a>
-  <figcaption>This is Ira our mascot!</figcaption>
-</figure>
