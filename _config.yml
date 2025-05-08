@@ -33,7 +33,7 @@ url                      : "https://ire4health.eu" # "https://horizon-europe-202
 baseurl                  : "" # "/horizon-europe-2023-ire"# the subpath of your site, e.g. "/blog"
 repository               : "horizon-europe-2023-ire/horizon-europe-2023-ire"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # /assets/images/main_image.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/logo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/IRE logo colour.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
