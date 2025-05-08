@@ -26,6 +26,7 @@ header:
         {{ event.location }}
       </p>
   </div>
+{%- endfor -%}
 
 <div>
   <h2>2024</h2>
@@ -46,3 +47,4 @@ header:
         {{ event.location }}
       </p>
   </div>
+{%- endfor -%}
