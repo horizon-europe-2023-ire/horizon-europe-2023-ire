@@ -24,11 +24,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Horizon Europe 2023 IRE"
+title                    : "Intelligent Robotic Endoscopes"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Horizon Europe"# site tagline that appears below site title in masthead 
 name                     : ""
-description              : "This is the official webpage for the Horizon Europe 2023 IRE Research."
+description              : "This is the official webpage for the Horizon Europe IRE Research."
 url                      : "https://ire4health.eu" # "https://horizon-europe-2023-ire.github.io" the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # "/horizon-europe-2023-ire"# the subpath of your site, e.g. "/blog"
 repository               : "horizon-europe-2023-ire/horizon-europe-2023-ire"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
