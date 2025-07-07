@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "New Insights on how to develop medical robotics technologies"
 excerpt: "In the last week of June IRE was represented at the “Hamlyn Symposium on Medical Robotics 2025” and shared and gained insights on what to be aware of in developing medical Robots discussing the area from different perspectives."
 last_modified_at:: 2025-07-07T15:30:00-00:00
