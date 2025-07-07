@@ -30,7 +30,7 @@ As a part of Intelligent Robotic Endoscopy Mostafa Atalla and the team from UTWE
 But is it enough to develop endoscopes and AI Robots based on clinical evidence and real-world patient data to reach clinical practices? 
 
 
-![Next generation Endoscopes](/assets/images/Hamlyn_Mostafa.jpg)
+![Next generation Endoscopes](/assets/images/Mostafa_Hamlyn.jpg)
 
 
 **The bumpy road to clinical practices**
@@ -49,5 +49,5 @@ CAMES: Birgitte Bruun, Kristoffer Cold, and Juana Maria Abdelreda.
 AMBU: Enrique Morales-Orcajo. 
 
 
-![Focus on Data](/assets/images/Hamlyngroup.jpg)
+![Focus on Data](/assets/images/GroupHamlyn.jpg)
 
