@@ -5,10 +5,10 @@ excerpt: "In the last week of June IRE was represented at the “Hamlyn Symposiu
 last_modified_at:: 2025-07-07T15:30:00-00:00
 header:
   overlay_image: /assets/images/Hamlyn_Martina-and-Mostafa.jpg
-  og_image: /assets/images/Hamlyn_Martina and Mostafa.jpg
+  og_image: /assets/images/Hamlyn_Martina-and-Mostafa.jpg
   overlay_filter: "0.5"
   caption: "Photo credit: [Mostafa Atalla]"
-image: "assets/images/Hamlyn_Martina and Mostafa.jpg"
+image: "assets/images/Hamlyn_Martina-and-Mostafa.jpg"
 ---
 At the “Hamlyn Symposium on Medical Robotics 2025” researchers on the IRE project engaged with clinicians, roboticist, and Industry experts to investigate the needs for robotic colonoscopy and how to get research and innovation of medical robotics out of the lab and into the clinics – and the answers are interesting in the development phase. 
 
