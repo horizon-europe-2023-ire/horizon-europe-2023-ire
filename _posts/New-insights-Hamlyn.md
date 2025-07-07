@@ -37,17 +37,9 @@ One of the main obstacles on the road from research and Innovation to clinical p
 Enrique Morales from AMBU addressed how to break into the market for medical products in his workshop talk and the advice is to find your niche market and stick to existing workflows unless your innovation is ten times better than existing solutions, in this case you can go for the disruptive solution.
 According to Momen Abayazid from UTWENTE the design plays an important role. In his invited talk at the workshop, "Endoluminal Robots: A Journey Through Unmet Medical Needs, Design Challenges, Regulatory Bodies, and Commercial Opportunities.", he explored innovative approaches for developing variable-stiffness endoscopes and origami-inspired structures—technologies that hold great promise for IRE endoscopes. 
 
-
-![The Road to clincal practices](/assets/images/Hamlyn_Momen Abayazid.jpg)
-
-
 **What’s next?** 
 To meet the needs of the market and the clinical practices we also must be aligned with the perception of the patient. As part of the IRE Project Birgitte Bruun from CAMES is therefore doing an anthropological study starting in October. At the symposium she did a poster presentation asking the developers to imagine being the patient having a Colonoscopy. 
 The aim was twofold: to activate developers' imaginations about patient experiences to include patients into the conference by proxy, and to tap into developers' ideas about what might be important to address in research with patients.
-
-
-![What's next](/assets/images/Hamlyn_Birgitte.jpg)
-
 
 **Participants from IRE at the “Hamlyn Symposium on Medical Robotics 2025”**
 University of Twente: Momen Abayazid, Giulio Dagnino and Mostafa Atalla. 
