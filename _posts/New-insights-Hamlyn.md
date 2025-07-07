@@ -19,33 +19,42 @@ To address the needs within colonoscopy the researchers focus on the importance 
 In his workshop talk, Kristoffer Mazanti Cold from Roskilde University Hospital and CAMES, one of the partners in IRE, emphasized how AI and automation in robotic colonoscopy can be a game changer for both patients and clinicians, but he also expressed the importance of generating robust clinical evidence and innovating within existing clinical workflows. 
 Martina Finocchiaro from DIKU also focused on the importance of evidence in her workshop talk and pointed out the significant anatomical differences between real patient colons and current physical simulators, highlighting the critical need for more representative physical and simulation models grounded in real-world patient data.
 
+
 ![Focus on Data](/assets/images/Hamlyn_Martina.jpg)
+
 
 **Next generation endoscopes** 
 As a part of Intelligent Robotic Endoscopy Mostafa Atalla and the team from UTWENTE are developing the next generation of endoscopes. In his workshop talk he introduced the key concepts and highlighted the novel approach to designing 3D-printable structures with integrated sensing and actuation in a single fabrication step. 
 “This innovation has the potential to enable the production of low-cost endoscopes with built-in environmental awareness—paving the way for safer, more effective procedures,” Atalla says.   
 But is it enough to develop endoscopes and AI Robots based on clinical evidence and real-world patient data to reach clinical practices? 
 
+
 ![Next generation Endoscopes](/assets/images/Hamlyn_Mostafa.jpg)
+
 
 **The bumpy road to clinical practices**
 One of the main obstacles on the road from research and Innovation to clinical practices is entering the market. This was a topic at the conference and in panel discussions. One of the issues is that it is difficult to enter the market for spin outs and smaller Innovative companies in competition with industry giants.  
 Enrique Morales from AMBU addressed how to break into the market for medical products in his workshop talk and the advice is to find your niche market and stick to existing workflows unless your innovation is ten times better than existing solutions, in this case you can go for the disruptive solution.
 According to Momen Abayazid from UTWENTE the design plays an important role. In his invited talk at the workshop, "Endoluminal Robots: A Journey Through Unmet Medical Needs, Design Challenges, Regulatory Bodies, and Commercial Opportunities.", he explored innovative approaches for developing variable-stiffness endoscopes and origami-inspired structures—technologies that hold great promise for IRE endoscopes. 
 
+
 ![The Road to clincal practices](/assets/images/Hamlyn_Momen Abayazid.jpg)
+
 
 **What’s next?** 
 To meet the needs of the market and the clinical practices we also must be aligned with the perception of the patient. As part of the IRE Project Birgitte Bruun from CAMES is therefore doing an anthropological study starting in October. At the symposium she did a poster presentation asking the developers to imagine being the patient having a Colonoscopy. 
 The aim was twofold: to activate developers' imaginations about patient experiences to include patients into the conference by proxy, and to tap into developers' ideas about what might be important to address in research with patients.
 
+
 ![What's next](/assets/images/Hamlyn_Birgitte.jpg)
+
 
 **Participants from IRE at the “Hamlyn Symposium on Medical Robotics 2025”**
 University of Twente: Momen Abayazid, Giulio Dagnino and Mostafa Atalla. 
 University of Copenhagen: Martina Finocchiaro.
 CAMES: Birgitte Bruun, Kristoffer Cold, and Juana Maria Abdelreda. 
 AMBU: Enrique Morales-Orcajo. 
+
 
 ![Focus on Data](/assets/images/Hamlyngroup.jpg)
 
