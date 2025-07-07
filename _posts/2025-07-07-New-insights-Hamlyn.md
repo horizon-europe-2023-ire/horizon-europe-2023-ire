@@ -49,5 +49,5 @@ CAMES: Birgitte Bruun, Kristoffer Cold, and Juana Maria Abdelreda.
 AMBU: Enrique Morales-Orcajo. 
 
 
-![Focus on Data](/assets/images/GroupHamlyn.jpg)
+![Focus on Data](/assets/images/groupHamlyn.jpg)
 
