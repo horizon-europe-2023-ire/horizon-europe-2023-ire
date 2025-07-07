@@ -10,6 +10,7 @@ header:
   caption: "Photo credit: [Mostafa Atalla]"
 image: "assets/images/Hamlyn_Martina-and-Mostafa.jpg"
 ---
+
 At the “Hamlyn Symposium on Medical Robotics 2025” researchers on the IRE project engaged with clinicians, roboticist, and Industry experts to investigate the needs for robotic colonoscopy and how to get research and innovation of medical robotics out of the lab and into the clinics – and the answers are interesting in the development phase. 
 
 **Bridging the gap from labs to clinical practices** 
