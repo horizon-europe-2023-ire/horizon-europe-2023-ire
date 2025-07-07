@@ -4,7 +4,7 @@ title: "New Insights on how to develop medical robotics technologies"
 excerpt: "In the last week of June IRE was represented at the “Hamlyn Symposium on Medical Robotics 2025” and shared and gained insights on what to be aware of in developing medical Robots discussing the area from different perspectives."
 last_modified_at:: 2025-07-07T15:30:00-00:00
 header:
-  overlay_image: /assets/images/Hamlyn_Martina and Mostafa.jpg
+  overlay_image: /assets/images/Hamlyn_Martina-and-Mostafa.jpg
   og_image: /assets/images/Hamlyn_Martina and Mostafa.jpg
   overlay_filter: "0.5"
   caption: "Photo credit: [Mostafa Atalla]"
@@ -21,7 +21,7 @@ In his workshop talk, Kristoffer Mazanti Cold from Roskilde University Hospital 
 Martina Finocchiaro from DIKU also focused on the importance of evidence in her workshop talk and pointed out the significant anatomical differences between real patient colons and current physical simulators, highlighting the critical need for more representative physical and simulation models grounded in real-world patient data.
 
 
-![Focus on Data](/assets/images/Hamlyn_Martina.jpg)
+![Focus on Data](/assets/images/Martina_Hamlyn.jpg)
 
 
 **Next generation endoscopes** 
