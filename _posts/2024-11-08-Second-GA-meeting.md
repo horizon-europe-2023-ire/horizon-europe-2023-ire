@@ -1,6 +1,6 @@
 ---
 title: "Hands-On Demos and Insightful Discussions at IRE’s Second Grant Assembly Meeting"
-excerpt: "In October he IRE research project consortium gathered for its second Grant Assembly Meeting."
+excerpt: "In October the IRE research project consortium gathered for its second Grant Assembly Meeting."
 last_modified_at: 2024-11-08T10:45:06-05:00
 header:
   overlay_image: /assets/images/GA2.jpg
