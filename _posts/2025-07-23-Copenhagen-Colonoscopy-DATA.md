@@ -21,6 +21,6 @@ The datasets from the Copenhagen Colonoscopy Database fills a gap by providing c
 
 **Authors**
 
-Kristoffer Mazanti Cold, Anishan Vamadevan, Amihai Heen , Andreas Slot Vilman, Mustafa Bulu, Bojan Kovacevic1, Morten Rasmussen, Lars Konge, Morten Bo Søndergaard Svendsen
+Kristoffer Mazanti Cold, Anishan Vamadevan, Amihai Heen , Andreas Slot Vilmann, Mustafa Bulut, Bojan Kovacevic, Morten Rasmussen, Lars Konge, Morten Bo Søndergaard Svendsen
 
 See the article in Nature Journal: "Scientific Data" [here](https://www.nature.com/articles/s41597-025-05530-7.epdf?sharing_token=xRn6eVuDzzftv6BVWTASHtRgN0jAjWel9jnR3ZoTv0POMlcONR0ukojZI9YWqDEuUEarclM8FaEe9pkGzl04tOI1zlMaYQ6GottC8_0c3xVyz5670vMlRBciN897It90z5nmcojOdMuirdGJgLK_YlD5dLqGVV0k4kOSMvhKRdA%3D).
