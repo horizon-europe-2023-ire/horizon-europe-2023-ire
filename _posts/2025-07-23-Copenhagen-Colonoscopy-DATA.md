@@ -7,10 +7,8 @@ header:
   og_image: /assets/images/Copenhagen-Data-base.png # same path as above
   overlay_filter: "0.5" # don't change
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-image: "assets/images/Copenhagen-Data-base.png" # change to same path as above
+image: "assets/images/assets/images/Copenhagen-Data-base.png" # change to same path as above
 ---
-# Welcome
-
 The database gathers data of the colonoscope’s coordinates from electromagnetic coils inside the colonoscopes path through the colon.  The data consists of coordinates from 1400 full clinical colonoscopies and 100 full colonoscopies from a simulated setting. These data are available for free, and can be used for mapping the mucosal inspection of the colon, generate heatmaps to ensure an equally distributed inspection, etc. Freely available for other researchers and scientists to use. 
  
 **The advantages**
