@@ -17,7 +17,9 @@ By replacing traditional rotation math with a Lie derivative–based approach, w
 These improvements mean:
 
 •	More responsive simulators for doctors in training.
+
 •	More detailed and accurate anatomical models without performance loss.
+
 •	Better tools for planning challenging procedures or testing new endoscope designs.
 
 Ultimately, this approach brings medical simulation a step closer to real-time, high-fidelity training environments that are safer for patients and more efficient for clinicians.
