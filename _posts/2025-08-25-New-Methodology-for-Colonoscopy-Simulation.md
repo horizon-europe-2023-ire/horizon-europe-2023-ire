@@ -24,4 +24,8 @@ These improvements mean:
 
 Ultimately, this approach brings medical simulation a step closer to real-time, high-fidelity training environments that are safer for patients and more efficient for clinicians.
 
+Authors: 
+Magí Romanyà-Serrasolsas, Juan j. Casafranca, Miguel a. Otaduy.
+Thank you to: Christos Koutras. 
+
 Read the paper [here](https://mslab.es/projects/Painless/)
