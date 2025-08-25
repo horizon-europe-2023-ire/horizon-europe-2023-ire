@@ -6,10 +6,9 @@ header:
   overlay_image: /assets/images/colon-demo-handcrafted (1).png
   og_image: /assets/images/colon-demo-handcrafted (1).png 
   overlay_filter: "0.5"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**URJC**]"
 image: "assets/images/colon-demo-handcrafted (1).png"
 ---
-**New Methodology for Colonoscopy Simulation**
 
 In the paper Painless Differentiable Rotation Dynamics, the IRE research group from Universidad Rey Juan Carlos demonstrates how colonoscopy simulation using a Cosserat rod model and a formulation of forward and differentiable rigid-body dynamics using Lie-algebra rotation derivatives, can create faster simulations, simplify the mathematics behind them, and improve stability in medical training simulators.
 
