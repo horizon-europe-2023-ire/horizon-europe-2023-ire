@@ -24,4 +24,4 @@ These improvements mean:
 
 Ultimately, this approach brings medical simulation a step closer to real-time, high-fidelity training environments that are safer for patients and more efficient for clinicians.
 
-Read the paper here: https://mslab.es/projects/Painless/
+Read the paper [here](https://mslab.es/projects/Painless/)
