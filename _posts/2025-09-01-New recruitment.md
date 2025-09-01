@@ -3,7 +3,7 @@ title: "New Recruitment"
 excerpt: "Guanglin Ji started 1 September 2025 as a post-doctoral researcher with the department of Computer Science, University of Copenhagen."
 last_modified_at: 2025-09-01T10:45:06-05:00
 header:
-  overlay_image: /assets/images/assets/images/Guanglin.jpeg
+  overlay_image: /assets/images/Guanglin.jpeg
   og_image: /assets/images/Guanglin.jpeg
   overlay_filter: "0.5"
   caption: "Photo credit: [**Guanlin Ji**]"
