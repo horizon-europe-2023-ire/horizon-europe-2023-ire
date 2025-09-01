@@ -12,5 +12,9 @@ image: "/assets/images/Guanglin.jpeg"
 
 Guanglin will be a part of the IRE project. 
 His research will focus on reinforcement learning-based navigation and control of soft robotic colonoscopy in the developed deformable simulator. 
-Guanglin completed his PhD in computer science and information engineering at the Chinese University of Hong Kong, Shenzhen, China, in 2025. His Ph.D. primarily focused on developing data-driven modeling, control, and motion planning strategies for soft continuum robots. His interests include medical robotics, control, and reinforcement learning.
+
+Guanglin completed his PhD in computer science and information engineering at the Chinese University of Hong Kong, Shenzhen, China, in 2025. His Ph.D. primarily focused on developing data-driven modeling, control, and motion planning strategies for soft continuum robots. 
+
+His interests include medical robotics, control, and reinforcement learning.
+
 Beyond research, Guanglin is passionate about basketball and table tennis. He also loves walking along the seashore to clear his mind.
