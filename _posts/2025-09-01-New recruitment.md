@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/Guanglin.jpeg
   og_image: /assets/images/Guanglin.jpeg
   overlay_filter: "0.5"
-  caption: "Photo credit: [**Guanlin Ji**]"
+  caption: "Photo credit: [**Guanglin Ji**]"
 image: "assets/images/Guanglin.jpeg"
 ---
 
