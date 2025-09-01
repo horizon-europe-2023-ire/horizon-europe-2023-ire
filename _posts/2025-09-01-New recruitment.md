@@ -7,7 +7,7 @@ header:
   og_image: /assets/images/Guanglin.jpeg
   overlay_filter: "0.5"
   caption: "Photo credit: [**Guanlin Ji**]"
-image: "/assets/images/Guanglin.jpeg"
+image: "assets/images/Guanglin.jpeg"
 ---
 
 Guanglin will be a part of the IRE project. 
