@@ -7,15 +7,6 @@ header:
   og_image: /assets/images/Guanglin.jpeg
   overlay_filter: "0.5"
   caption: "Photo credit: [**Guanglin Ji**]"
-  .page__hero--overlay {
-  max-height: 300px;   /* adjust height */
-  overflow: hidden;    /* crop the rest */
-}
-
-.page__hero-image {
-  object-fit: cover;   /* keeps aspect ratio */
-}
-
 image: "assets/images/Guanglin.jpeg"
 ---
 
