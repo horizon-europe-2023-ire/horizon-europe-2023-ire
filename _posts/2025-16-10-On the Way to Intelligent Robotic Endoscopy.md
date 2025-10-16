@@ -1,14 +1,12 @@
 ---
-title: "On the Way to Intelligent Robotic Endoscopy: Milestones and Momentum from the IRE Project were discussed at the third General Assembly" 
-excerpt: "Pioneering the Future of Endoscopic Robotics" 
-last_modified_at: 2025-10-16T10:45:06-05:00 
-header:
-  overlay_image: /assets/images/Pioneer-Center.jpg 
-  og_image: /assets/images/Pioneer-Center.jpg
-  overlay_filter: "0.5" 
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-image: "assets/images/Pioneer-Center.jpg" 
 ---
+title: "On the Way to Intelligent Robotic Endoscopy: Milestones and Momentum from the IRE Project were discussed at the third General Assembly"
+excerpt: "Pioneering the Future of Endoscopic Robotics."
+last_modified_at: "2025-10-16T10:45:06-05:00"
+image: "/assets/images/Pioneer_GA.jpg"   # <-- header image
+caption: "Photo credit: [**Thomas Gredsted**]"  # optional caption
+---
+
 At the third General Assembly on 9 October the IRE team gathered to evaluate the project’s latest milestones — a meeting that showcased how collaboration, innovation, and interdisciplinary expertise are reshaping medical robotics. The path toward safer, more effective, and intelligent robotic colonoscopy is becoming clearer with each iteration of the project.  
 
 **Key Achievements**
