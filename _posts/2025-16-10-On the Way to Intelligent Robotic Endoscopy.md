@@ -3,8 +3,8 @@ title: "On the Way to Intelligent Robotic Endoscopy: Milestones and Momentum fro
 excerpt: "Pioneering the Future of Endoscopic Robotics."
 last_modified_at: "2025-10-16T10:45:06-05:00"
 header:
-  overlay_image: "/assets/images/Pioneer_GA.jpg"
-  og_image: "/assets/images/Pioneer_GA.jpg"
+  overlay_image: /assets/images/Pioneer_GA.jpg
+  og_image: /assets/images/Pioneer_GA.jpg
   overlay_filter: 0.5
   caption: "Photo credit: [**Thomas Gredsted**]"
 image: "/assets/images/Pioneer_GA.jpg"
