@@ -4,7 +4,7 @@ excerpt: "Pioneering the Future of Endoscopic Robotics"
 last_modified_at: 2025-10-15T10:45:06-05:00 
 header:
   overlay_image: /assets/images/Pioneer-Center.jpg
-  og_image: assets/images/Pioneer-Center.jpg 
+  og_image: /assets/images/Pioneer-Center.jpg 
   overlay_filter: "0.5" 
   caption: "Photo credit: [**Thomas Gredsted**]
 image: "assets/images/Pioneer-Center.jpg"
@@ -12,6 +12,7 @@ image: "assets/images/Pioneer-Center.jpg"
 At the third General Assembly on 9 October the IRE team gathered to evaluate the project’s latest milestones — a meeting that showcased how collaboration, innovation, and interdisciplinary expertise are reshaping medical robotics. The path toward safer, more effective, and intelligent robotic colonoscopy is becoming clearer with each iteration of the project.  
 
 **Key Achievements**
+
 The IRE consortium has made achievements across simulation, sensing, and robotic intelligence. Highlights include:
 
 •	435 high-quality, simulation-ready colon meshes, with artifacts removed from the rectum region — enabling precise and realistic modeling for surgical simulation.
@@ -33,6 +34,7 @@ The IRE consortium has made achievements across simulation, sensing, and robotic
 •	Proof-of-concept reward design and navigation policy learning, establishing a key basis for autonomous robotic guidance.
 
 **Insights from the Keynote**
+
 Benedikt Duckworth-Mothes presented inspiring developments, including:
 
 •	A survey of current training models and novel methods for model production.
@@ -44,6 +46,7 @@ Benedikt Duckworth-Mothes presented inspiring developments, including:
 These advances reflect the team’s dedication to bridging theoretical modeling with tangible medical innovation.
 
 **Looking Ahead**
+
 The next phase of the IRE project aims to transform these advances into clinically viable technologies. Planned initiatives include:
 •	Creating five colon cases for simulation with varying complexity to refine performance across boundary conditions.
 
@@ -76,4 +79,3 @@ The progress of the IRE project is made possible through the exceptional collabo
 •	UT – Clemens Lässing and Benedikt Duckworth-Mothes.
 
 The General Assembly, hosted at the Pioneer Centre for AI (P1), deepened ongoing partnerships — propelling the IRE vision of intelligent, autonomous, and patient-safe robotic endoscopy ever closer to clinical reality.
-
