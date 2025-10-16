@@ -1,15 +1,15 @@
 ---
-title: "On the Way to Intelligent Robotic Endoscopy: Milestones and Momentum from the IRE Project were discussed at the third General Assembly"
-excerpt: "Pioneering the Future of Endoscopic Robotics."
-last_modified_at: "2025-10-16T10:45:06-05:00"
+title: "On the Way to Intelligent Robotic Endoscopy: Milestones and Momentum from the IRE Project were discussed at the third General Assembly" 
+excerpt: "Pioneering the Future of Endoscopic Robotics" 
+last_modified_at: 2025-10-16T10:45:06-05:00 
 header:
-  overlay_image: /assets/images/Pioneer_GA.jpg
-  og_image: /assets/images/Pioneer_GA.jpg
-  overlay_filter: 0.5
-  caption: "Photo credit: [**Thomas Gredsted**]"
-image: "/assets/images/Pioneer_GA.jpg"
+  overlay_image: /assets/images/Pioneer-Center.jpg 
+  og_image: /assets/images/Pioneer-Center.jpg
+  overlay_filter: "0.5" 
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+image: "assets/images/Pioneer-Center.jpg" 
 ---
-At the third General Assembly on 9 October the IRE team gathered to evaluate the project’s latest milestones — a meeting that showcased how collaboration, innovation, and interdisciplinary expertise are reshaping medical robotics. The path toward safer, more effective, and intelligent robotic colonoscopy is becoming clearer with each iteration of the project.
+At the third General Assembly on 9 October the IRE team gathered to evaluate the project’s latest milestones — a meeting that showcased how collaboration, innovation, and interdisciplinary expertise are reshaping medical robotics. The path toward safer, more effective, and intelligent robotic colonoscopy is becoming clearer with each iteration of the project.  
 
 **Key Achievements**
 
@@ -43,11 +43,12 @@ Benedikt Duckworth-Mothes presented inspiring developments, including:
 
 •	Future directions in sensor integration, essential for enhancing robotic situational awareness and responsiveness.
 
-These advances reflect the team’s dedication to bridging theoretical modeling with tangible medical innovation.
+These advances reflect the team’s dedication to bridging theoretical modeling with tangible MedTech innovation.
 
-**Looking Ahead**
+**Looking Ahead** 
 
 The next phase of the IRE project aims to transform these advances into clinically viable technologies. Planned initiatives include:
+
 •	Creating five colon cases for simulation with varying complexity to refine performance across boundary conditions.
 
 •	Designing a novel Eulerian-on-Lagrangian reduced model to accelerate endoscope–tissue interaction simulations.
@@ -62,7 +63,7 @@ The next phase of the IRE project aims to transform these advances into clinical
 
 •	Collecting data on insertion forces during colonoscopy, using a custom device developed by AMBU partners.
 
-**A Collaborative Effort Across Europe**
+**A Collaborative Effort Across Europe** 
 
 The progress of the IRE project is made possible through the exceptional collaboration among leading research institutions:
 
@@ -79,3 +80,5 @@ The progress of the IRE project is made possible through the exceptional collabo
 •	UT – Clemens Lässing and Benedikt Duckworth-Mothes.
 
 The General Assembly, hosted at the Pioneer Centre for AI (P1), deepened ongoing partnerships — propelling the IRE vision of intelligent, autonomous, and patient-safe robotic endoscopy ever closer to clinical reality.
+
+
