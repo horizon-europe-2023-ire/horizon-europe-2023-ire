@@ -75,6 +75,8 @@ The progress of the IRE project is made possible through the exceptional collabo
 
 •	Inria – Jeremie Dequidt, Christian Duriez, Yinoussa Adagolodjo, and Thomas Moupfouma.
 
+•	InSimo - Francois Jourdes and Lil Le Crom
+
 •	University of Twente – Gijs Krijnen, Giulio Dagnino, Milad Hayati, Momen Abayazid, Venkata Rithwick Puranam, Mostafa A. Atalla, and Islam S. M. Khalil.
 
 •	CAMES – Ami Heen, Birgitte Bruun, Johannes van den Heuvel, Kristoffer Mazanti Cold, Lars Konge, and Juana Maria Abdelreda.
