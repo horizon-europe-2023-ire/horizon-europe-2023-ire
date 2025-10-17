@@ -1,9 +1,13 @@
 ---
-title: "On the Way to Intelligent Robotic Endoscopy"
+title: "On the Way to Intelligent Robotic Endoscopy"  
 excerpt: "Milestones and Momentum from the IRE Project were discussed at the third General Assembly"
 last_modified_at: "2025-10-16T10:45:06-05:00"
+header:
+  overlay_image: /assets/images/Pioneer_GA.jpg
+  og_image: /assets/images/Pioneer_GA.jpg
+  overlay_filter: "0.5"
+  caption: "Photo credit: [**Thomas Gredsted**]"
 image: "assets/images/Pioneer_GA.jpg"
-caption: "Photo credit: Thomas Gredsted"
 ---
 **Pioneering the Future of Endoscopic Robotics**
 
