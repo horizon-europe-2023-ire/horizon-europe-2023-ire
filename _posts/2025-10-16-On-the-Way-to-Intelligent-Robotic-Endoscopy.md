@@ -83,6 +83,8 @@ The progress of the IRE project is made possible through the exceptional collabo
 
 •	UT – Clemens Lässing and Benedikt Duckworth-Mothes.
 
+•	Ambu A/S - Enrique Morales-Orcajo, PhD, Sai Sudhir Chalavadi
+
 The General Assembly, hosted at the Pioneer Centre for AI (P1), deepened ongoing partnerships — propelling the IRE vision of intelligent, autonomous, and patient-safe robotic endoscopy ever closer to clinical reality.
 
 
