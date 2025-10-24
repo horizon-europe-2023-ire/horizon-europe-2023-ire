@@ -16,7 +16,7 @@ The aims are to explore how an actual Intelligent Robotic endoscope might be imp
 
 It will be fun, exciting and not as simple as it might sound!
 
-(../assets/images/AntroIRE.png).jpg)
+![TheTeam](/assets/images/AntroIRE.png)
 
 Johannes, techno-anthropologist, Emilie, radiographer and techno-anthropologist, Sofie, nurse and techno-anthropologist, Birgitte, anthropologist
 
