@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/assets/Islam_selim.jpg
   og_image: /assets/images/Islam_selim.jpg
   overlay_filter: "0.5"
-  caption: "Photo Credit: [**Islam Khalil and Mostafa Selim **]"
+  caption: ""
 image: "assets/images/Islam_selim.jpg" 
 ---
 
