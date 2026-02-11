@@ -7,7 +7,7 @@ header:
   og_image: /assets/images/Islam_selim.jpg
   overlay_filter: "0.5"
   caption: ""
-image: "/assets/images/Islam_selim.jpg" 
+image: "assets/images/Islam_selim.jpg" 
 ---
 Associated Professor Islam S. M. Khalil will be Work Package leader for the team that works with creating robotic endoscopes.
 
