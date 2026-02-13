@@ -3,11 +3,11 @@ title: "New Post Doc and new Associated researcher join IRE"
 excerpt: "Associated Professor Islam S. M. Khalil and postdoctoral researcher Mostafa Selim have recently started working on the IRE project at UTWENTE"
 last_modified_at: 2026-02-10T17:45:06-05:00
 header:
-  overlay_image: /assets/images/assets/Islam_selim.jpg
-  og_image: /assets/images/Islam_selim.jpg
+  overlay_image: /assets/images/Islam_selim.png
+  og_image: /assets/images/Islam_selim.png
   overlay_filter: "0.5"
   caption: ""
-image: "assets/images/Islam_selim.jpg" 
+image: "assets/images/Islam_selim.png" 
 ---
 
 Associated Professor Islam S. M. Khalil will be Work Package leader for the team that works with creating robotic endoscopes.
