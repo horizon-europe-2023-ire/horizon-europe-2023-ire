@@ -12,7 +12,6 @@ image: "assets/images/colons.png"
 The IRE4Health consortium is pleased to share that a new publication by our researchers and collaborators has just been released in Nature Scientific Data:
 
 **“Clinically validated dataset of 435 human colons segmented from CT colonography.”**
-
 See the full paper here: https://www.nature.com/articles/s41597-025-06518-z
 
 This publication presents the first and largest openly available dataset of high resolution, clinically validated segmentations of human colons derived from CT colonography scans. The dataset includes 435 anatomically detailed colon models, providing a unique resource for the research community. 
