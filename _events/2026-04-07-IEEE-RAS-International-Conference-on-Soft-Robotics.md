@@ -1,7 +1,7 @@
 ---
 layout: events
 title: "IEEE-RAS International Conference on Soft Robotics"
-date: 2026-04-07T08:45:00 :https://www.robosoft2026.org/ ISO format
+date: 2026-04-07 00:45 - 2026-04-11 09:30
 location: "KanaZawa, Japan"
 description: "The conference will highlight Human-centered Soft Robotics for Social Challenges,exploring how adaptable, compliant, and bio-inspired robots can interact safely with humans and the environment." 
 year: 2026 
