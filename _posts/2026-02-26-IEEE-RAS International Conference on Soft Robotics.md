@@ -9,7 +9,6 @@ header:
   caption: "Photo credit: [**INRIA**]"
 image: "assets/images/FoamBoatIRE.png"
 ---
-# Welcome
 
 At the Conferene Maxence Corailler, Felix Vanneste and Christian Duriez from the IRE team at INRIA in Lille will present the Conference paper "FoamBot: An Additively Manufactured Foam Soft Robot Manipulator with Integrated Conductive Sensors for Shape Estimation."
 
@@ -26,4 +25,3 @@ The cable actuation system provides controllable deformation scenarios that vali
 
 See more about the event [here](https://www.robosoft2026.org/)
 
-https://ire4health.eu/events/2026/04/07/IEEE-RAS-International-Conference-on-Soft-Robotics/
