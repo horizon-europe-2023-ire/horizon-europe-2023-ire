@@ -21,3 +21,4 @@ These variations are used to estimate the internal strain distribution, and an i
 The cable actuation system provides controllable deformation scenarios that validate the sensing and reconstruction method experimentally. This work demonstrates that 3D-printed parametric TPU foams with integrated conductive sensing networks can serve simultaneously as structure, actuator interface, and sensor, offering a scalable path toward self-sensing soft robots with streamlined fabrication.
 
 See more about the event [here](https://www.robosoft2026.org/)
+
